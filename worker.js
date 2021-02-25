@@ -1,18 +1,18 @@
 var authConfig = {
-    "siteName": "Mr.wei - Drive", // Site Name
+    "siteName": "魏小毛的网盘", // Site Name
     "version" : "2.4", // version
     "basic_auth": false, // change to Basic authentication
     "user": "wabjtam!",
     "pass": "admin",
     "theme" : "material", // material  classic
-    "main_color": "light-green",
+    "main_color": "purple",
     "accent_color": "green",
     "dark_theme": true, //make sure you set main color
     "search": false,
     "client_id": "202264815644.apps.googleusercontent.com",
     "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-    "refresh_token": "1//0g-SeAq_iTUE0CgYIARAAGBASNgF-L9IrAdPMKur4pjTkhcnyrZYZnDHGnZQLlI-XsLBTZZG8KdG-KxDLFc20hynAx21aTN-VbA", // Authorization token
-    "root": "weizhen" // Root directory ID
+    "refresh_token": "1//0eR281hgX739TCgYIARAAGA4SNgF-L9IrVFkFCdmdVLtPgajOP8uf0fJVp4_7X-qUo23FixXsKtu4mY2KGxedSuVQZVeGdoTUcQ", // Authorization token
+    "root": "root" // Root directory ID
   };
   var gd;
   var html = `
